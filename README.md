@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yassir Elamin I graduated from Carolina Code School Nov 2022.
 - 👀 I’m interested in visual arts, photography and technology.
 - 🌱 I’m currently learning database mySQL
-- 💞️ I’m looking to collaborate on python based projects and procurement and purchasing applications.
+- 💞️ I’m looking to collaborate on python based projects on procurement and purchasing applications.
 - 📫 How to reach me email: yelamin2@gmail.com
 
 <!---
